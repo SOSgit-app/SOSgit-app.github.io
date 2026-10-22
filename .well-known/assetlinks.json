@@ -1,0 +1,12 @@
+﻿[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sosgitapp.a3ftx",
+      "sha256_cert_fingerprints": [
+        "97:FF:23:4E:6F:7A:BA:DF:54:D0:F5:43:3A:10:7A:D3:FA:E0:A6:57:FC:76:74:21:54:F2:F5:77:10:5E:47:CA"
+      ]
+    }
+  }
+]
